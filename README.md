@@ -15,3 +15,7 @@ python2/python3(*Recommended*)
 2. `cd`至对应目录下
 3. 输入`python ` + `[对应文件名称]`
 4. 回车（Enter）即可
+
+## DEMO
+中国大学排名
+![demo](/img/demo_ChineseUniversityRank.png)
